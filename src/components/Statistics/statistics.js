@@ -1,4 +1,4 @@
-import { StatisticList } from './statisticList';
+import { StatisticList } from './StatisticList';
 import PropTypes from 'prop-types';
 
 import css from './statistic.module.css';
