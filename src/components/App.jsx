@@ -24,7 +24,7 @@ export const App = () => {
       <TransactionHistory items={transactions} />
 
       <ProfileStyled
-        followers="Followers"
+        followers="Follower"
         views="Views"
         likes="Likes"
         username={user.username}
