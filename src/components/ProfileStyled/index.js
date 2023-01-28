@@ -1,0 +1,1 @@
+export { ProfileStyled } from './ProfileStyled';
